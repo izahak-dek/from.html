@@ -1,0 +1,41 @@
+*{
+   
+   font-family: sans-serif;
+   font-size: large;
+   color: black;
+  
+}
+.first{
+
+    text-align: left;
+   
+    
+}
+
+.second{
+    text-align: center;
+   
+   
+  
+}
+
+.last{
+   text-align: right;
+  
+    
+    
+   
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    flex: 1;
+}
+
+.khan{
+    border: 20px solid orange;
+    padding: 30px;
+    display: flex;
+    
+}
